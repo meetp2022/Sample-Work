@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="install_guide_1_0">
+    <title>Installation Procedure - User Manager</title>
+    <shortdesc>User Manager (UM) is a management system that can be used in various setups for ETO
+        1.0. </shortdesc>
+    <taskbody>
+        <prereq id="prereq_jcf_xqm_jvb">Ensure that <b>Constructor</b> has been installed already on
+            this machine. </prereq>
+        <context>
+            <note id="note_fxq_hpm_jvb">ETO requires that the Windows Text Size be set to 100%. As
+                of Windows 11, the default Text Size is now set to 125%. You must go to <b>Control
+                    Panel</b> > <b>All Control Panel Items</b> > <b>Display</b> and set the Text
+                Size to 100% to use ETO, including the installers.</note>
+        </context>
+        <steps>
+            <step>
+                <cmd>Note that <b>User Manager </b>is normally installed on one or more of the
+                        <b>Builder</b> user machines. Only one instance of User Manager is necessary
+                    to manage the ETO Users for a given site.</cmd>
+            </step>
+            <step>
+                <cmd>Double-click the <b>User Manager</b> Installer. You will see a window which
+                    will allow you to choose the <b>Language</b> using the dropdown.</cmd>
+            </step>
+            <step>
+                <cmd>Once you click <uicontrol>OK</uicontrol>, you are prompted to choose an install
+                    folder.</cmd>
+            </step>
+            <step>
+                <cmd>Accept the default install directory, or select the desired directory for  ETO
+                    User Manager (<b>note, this should match the Constructor Installation
+                        directory)</b>, then click <b><uicontrol>Next</uicontrol> . </b>If this
+                    directory already exists, you will be asked if you wish to install to the
+                    existing folder. You should choose <uicontrol>Yes</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Accept the default or choose a different <b>Start Menu folder</b> and click
+                            <b><uicontrol>Next</uicontrol>
+                    </b></cmd>
+            </step>
+            <step>
+                <cmd>Review the Installer settings, then click <uicontrol>Install</uicontrol>.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Finish</uicontrol>. ETO is now installed on your
+                    machine.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

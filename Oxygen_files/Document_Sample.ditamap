@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Sample document</title>
+    <topichead navtitle="Installation ">
+        <topicref href="Installation_Procedure_User_Manager.dita"/>
+    </topichead>
+    <topichead navtitle="Configuration">
+        <topicref href="sw_config.dita"/>
+    </topichead>
+</map>

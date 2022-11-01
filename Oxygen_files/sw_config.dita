@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="sw_config">
+    <title>SolidWorks Integration Configuration in ETO</title>
+    <body>
+        <p>These are the settings that configure the SWX Integration in ETO, available in  ETO 1.0
+            and above. There is a description of what they do, the recommended setting for most
+            users, along with how to “tune” them, if it applies. </p>
+        <p>These settings can be configured via the <b>Options</b> Dialog, on the <b>Additional
+                Settings</b> tab, or in the ETO.ini file.<note id="note_ecs_42n_jvb"> The ETO.ini
+                file is found in:<p>
+                    <b>C:\ProgramData\ETO\<i>yourCurrentETOVersionNumber</i>
+                    </b></p><p>
+                    <b>(for example) C:\ProgramData\ETO\</b><b>10.2</b><b>.0</b></p></note></p>
+        <p>These settings are all per-profile in the ETO.ini file - the start of each profile’s
+            entries in the ETO.ini file is designated
+            by:<codeblock id="codeblock_upw_z2n_jvb" outputclass="language-sql">[Profile~Development_440_Local]
+RebuildCount=15
+RefreshTime=15
+RefreshSWX=2
+SwxReparent=2
+RemoteSWXRelease=2
+RemoteSWXTime=2</codeblock></p>
+        <p>Please contact our support team, if you have  any questions regarding these settings.</p>
+    </body>
+</topic>
