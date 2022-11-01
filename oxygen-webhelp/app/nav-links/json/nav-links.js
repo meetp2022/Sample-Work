@@ -1,0 +1,1 @@
+define({"title":"<span class=\"title\">Sample document<\/span>","topics":[{"title":"Installation ","href":"Installation_Procedure_User_Manager.html","menu":{"hasChildren":true},"tocID":"tocId-d152e11","next":"tocId-d152e11"},{"title":"Configuration","href":"sw_config.html","menu":{"hasChildren":true},"tocID":"tocId-d152e24","next":"tocId-d152e24"}]});
