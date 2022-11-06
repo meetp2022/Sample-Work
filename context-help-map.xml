@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="the_basics" path="Topic/the_basics.html"/>
+   <appContext helpID="topic_2bh_hl5_qf"
+               path="oxy_ex-1/mobile-phone/topics/introduction.html"/>
+   <appContext helpID="topic_d5p_h3b_fg"
+               path="oxy_ex-1/mobile-phone/topics/Specifications.html"/>
+   <appContext helpID="topic_4qz_gjm_2g"
+               path="oxy_ex-1/mobile-phone/topics/importantKeys.html"/>
+   <appContext helpID="task_ww1_fh3_rf"
+               path="oxy_ex-1/mobile-phone/tasks/insertBattery.html"/>
+   <appContext helpID="task_3ml_qm3_rf"
+               path="oxy_ex-1/mobile-phone/tasks/removingBattery.html"/>
+   <appContext helpID="task_5tn_3bl_wf"
+               path="oxy_ex-1/mobile-phone/tasks/insertSim.html"/>
+   <appContext helpID="task_egl_jxl_3g"
+               path="oxy_ex-1/mobile-phone/tasks/lockKeys.html"/>
+   <appContext helpID="task_4dn_bhv_qf"
+               path="oxy_ex-1/mobile-phone/tasks/makeACall.html"/>
+   <appContext helpID="task_bqt_sbm_5f"
+               path="oxy_ex-1/mobile-phone/tasks/makeConferenceCall.html"/>
+   <appContext helpID="topic_tj2_ppk_5f"
+               path="oxy_ex-1/mobile-phone/topics/adjustVolume.html"/>
+   <appContext helpID="task_ptr_12m_3g"
+               path="oxy_ex-1/mobile-phone/tasks/turnBluetoothOnOff.html"/>
+   <appContext helpID="task_yjv_ttp_tf"
+               path="oxy_ex-1/mobile-phone/tasks/receiveFilesBluetooth.html"/>
+   <appContext helpID="email" path="oxy_ex-1/mobile-phone/topics/email.html"/>
+   <appContext helpID="task_r33_mtl_3g"
+               path="oxy_ex-1/mobile-phone/tasks/setUpEmail.html"/>
+   <appContext helpID="task_ws1_v2g_2g"
+               path="oxy_ex-1/mobile-phone/tasks/composeSendEmail.html"/>
+   <appContext helpID="topic_l4w_prg_2g"
+               path="oxy_ex-1/mobile-phone/topics/deleteEmails.html"/>
+   <appContext helpID="repairing"
+               path="oxy_ex-1/mobile-phone/topics/repairingThePhone.html"/>
+   <appContext helpID="topic_jtn_y2c_fg"
+               path="oxy_ex-1/mobile-phone/topics/runDiagnosticReport.html"/>
+</map>
