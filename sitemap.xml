@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
+<<<<<<< HEAD
       <loc>Topic/the_basics.html</loc>
       <lastmod>2022-11-05T06:56:10Z</lastmod>
    </url>
@@ -75,5 +76,13 @@
    <url>
       <loc>oxy_ex-1/mobile-phone/topics/runDiagnosticReport.html</loc>
       <lastmod>2022-11-05T06:56:10Z</lastmod>
+=======
+      <loc>Installation_Procedure_User_Manager.html</loc>
+      <lastmod>2022-11-01T05:55:12Z</lastmod>
+   </url>
+   <url>
+      <loc>sw_config.html</loc>
+      <lastmod>2022-11-01T05:55:12Z</lastmod>
+>>>>>>> b838f6e73a75e30523f40a9e164ec275a5a07661
    </url>
 </urlset>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
+<<<<<<< HEAD
    <appContext helpID="the_basics" path="Topic/the_basics.html"/>
    <appContext helpID="topic_2bh_hl5_qf"
                path="oxy_ex-1/mobile-phone/topics/introduction.html"/>
@@ -36,4 +37,9 @@
                path="oxy_ex-1/mobile-phone/topics/repairingThePhone.html"/>
    <appContext helpID="topic_jtn_y2c_fg"
                path="oxy_ex-1/mobile-phone/topics/runDiagnosticReport.html"/>
+=======
+   <appContext helpID="install_guide_1_0"
+               path="Installation_Procedure_User_Manager.html"/>
+   <appContext helpID="sw_config" path="sw_config.html"/>
+>>>>>>> b838f6e73a75e30523f40a9e164ec275a5a07661
 </map>
